@@ -32,7 +32,7 @@ h6 {
     font-family: 'Space Mono', monospace;
 }
 
-
+/* most of these rules are there because text scaling was mentioned but i don't remember it form class so i just got gemini to do it */
 /* Root Font Size - sets the baseline */
 html {
     font-size: 16px !important;
